@@ -1,4 +1,4 @@
-name: ddr-core
+name: Pack ddr_core
 
 on:
   push:
